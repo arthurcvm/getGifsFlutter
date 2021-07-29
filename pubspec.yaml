@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   share: ^2.0.4
-  transparent_image: ^1.0.0
+  transparent_image: ^2.0.0
   http: ^0.13.3
 
 
